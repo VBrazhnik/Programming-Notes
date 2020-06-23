@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Предисловие](README.md)
+* [Соглашение об именовании](naming-conventions.md)
 
